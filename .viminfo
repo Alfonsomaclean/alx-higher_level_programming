@@ -19,18 +19,25 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	#
 
 # File marks:
-'0  5  3  ~/.git/MERGE_MSG
+'0  8  0  ~/.git/MERGE_MSG
+'1  5  3  ~/.git/MERGE_MSG
 
 # Jumplist (newest first):
--'  5  3  ~/.git/MERGE_MSG
+-'  8  0  ~/.git/MERGE_MSG
 -'  1  0  ~/.git/MERGE_MSG
+-'  5  3  ~/.git/MERGE_MSG
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/MERGE_MSG
-	"	5	3
-	^	5	4
-	.	5	4
-	+	5	4
+	"	8	0
+	^	8	0
+	.	26	0
+	+	5	3
+	+	3	71
+	+	5	3
+	+	26	0
